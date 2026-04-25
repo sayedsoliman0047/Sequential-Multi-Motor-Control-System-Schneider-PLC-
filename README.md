@@ -1,4 +1,4 @@
-# Sequential-Multi-Motor-Control-System-Schneider-PLC-
+# Sequential Multi-Motor Control System (Schneider PLC)
 
 
 ##  Project Overview
