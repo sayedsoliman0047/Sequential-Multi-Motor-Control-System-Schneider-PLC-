@@ -93,7 +93,7 @@ The system follows a cyclic sequence:
 
 ##  Demo
 
-*(./vedio.mp4)*
+[Watch system demonstration](video.mp4)
 
 ---
 
